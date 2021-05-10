@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="note1">Note1</string>
+    <string name="note1_title">NOTE1</string>
+    <string name="date1">10.05.21</string>
+    <string name="note2_title">NOTE2</string>
+    <string name="note3_title">NOTE3</string>
+    <string name="note2">Note2</string>
+    <string name="note3">Note3</string>
+    <string name="date2">1.02.21</string>
+    <string name="date3">2.01.21</string>
+</resources>
